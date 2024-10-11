@@ -1,16 +1,14 @@
 ---
-title: Home
 id: home
-template: home
 blueprint: pages
+title: Home
+template: home
+author: eefc9e90-443d-40f9-a5b4-025ae2101ed5
+updated_by: eefc9e90-443d-40f9-a5b4-025ae2101ed5
+updated_at: 1728679163
 ---
-## Welcome to your brand new Statamic site!
+## Home Page
 
-Not sure where to do next? Here are a few ideas, but feel free to explore in your own way, in your own time.
+Adipisicing mollit aute anim nisi occaecat occaecat adipisicing enim velit aliquip dolore duis incididunt.
 
-- [Jump into the Control Panel](/cp) and edit this page or begin setting up your own collections and blueprints.
-- [Head to the docs](https://statamic.dev) and learn how Statamic works.
-- [Watch some Statamic videos](https://youtube.com/statamic) on YouTube.
-- [Join our Discord chat](https://statamic.com/discord) and meet thousands of other Statamic developers.
-- [Start a discussion](https://github.com/statamic/cms/discussions) and get answers to your questions.
-- [Star Statamic on Github](https://github.com/statamic/cms) if you enjoy using it!
+[Control Panel](/cp)
